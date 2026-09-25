@@ -1,0 +1,21 @@
+.keyword {
+  font-weight: bold;
+  color: #E86161;
+}
+
+.string {
+  color: #3DEE37;
+}
+
+.number {
+  color: #AB17EB;
+}
+
+.comment {
+  color: #5E5A5B;
+  font-style: italic;
+}
+
+.sym { /* which is for operators and punctuation */
+  color: #fff;
+}
