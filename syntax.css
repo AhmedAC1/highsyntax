@@ -19,3 +19,7 @@
 .sym { /* which is for operators and punctuation */
   color: #fff;
 }
+
+.function {
+  color: #FF99CC;
+}
